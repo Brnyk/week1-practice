@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: darkblue;
 }
 
 h1 {
@@ -8,4 +8,9 @@ h1 {
 
 p {
     color: deeppink;
+}
+
+img{
+    height: 250px;
+    width: 300px;
 }
